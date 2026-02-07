@@ -6,6 +6,13 @@ A Python toolkit for connecting the social fabric of place to human dynamics
 
 ### Core Python
 
+|                   |                                                                       |                                                                   |
+| ---               | ---                                                                   | ---                                                               |
+| Livelike          | [`livelike`](https://github.com/likeness-pop/livelike)                | Vivid Synthetic Populations                                       |
+| PyMEDM            | [`pymedm`](https://github.com/likeness-pop/pymedm)                    | Penalized Maximum-Entropy Dasymetric Modeling (P-MEDM) in Python  |
+| Likeness-Vitals   | [`likeness_vitals`](https://github.com/likeness-pop/likeness-vitals)  | Shared utility functionality for Likeness modules                 |
+
+
 #### Livelike
 
 [`livelike`](https://github.com/likeness-pop/livelike) – Vivid Synthetic Populations
