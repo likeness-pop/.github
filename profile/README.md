@@ -1,14 +1,14 @@
 # Likeness
 
-A Python toolkit for connecting the social fabric of place to human dynamics
+**A Python toolkit for connecting the social fabric of place to human dynamics**
 
 ## Ecosystem
 
-| Core Python       |                                                                         |                                  |                                                                                                              |
-| ---               | ---                                                                     | ---                              | ---                                                                                                          |
-| Livelike          | [`livelike`](https://github.com/likeness-pop/livelike)                  | Vivid Synthetic Populations      | ![tag](https://img.shields.io/github/v/release/likeness-pop/livelike?include_prereleases&sort=semver)        |
-| PyMEDM            | [`pymedm`](https://github.com/likeness-pop/pymedm)                      | PMEDM in Python                  | ![tag](https://img.shields.io/github/v/release/likeness-pop/pymedm?include_prereleases&sort=semver)          |
-| Likeness-Vitals   | [`likeness_vitals`](https://github.com/likeness-pop/likeness-vitals)    | Organizational shared utilities  | ![tag](https://img.shields.io/github/v/release/likeness-pop/likeness-vitals?include_prereleases&sort=semver) |
+| Core Python       |                                                                         |                                  |                                                                                                              |     |
+| ---               | ---                                                                     | ---                              | ---                                                                                                          | --- |
+| Livelike          | [`livelike`](https://github.com/likeness-pop/livelike)                  | Vivid Synthetic Populations      | ![tag](https://img.shields.io/github/v/release/likeness-pop/livelike?include_prereleases&sort=semver)        |     |
+| PyMEDM            | [`pymedm`](https://github.com/likeness-pop/pymedm)                      | PMEDM in Python                  | ![tag](https://img.shields.io/github/v/release/likeness-pop/pymedm?include_prereleases&sort=semver)          |     |
+| Likeness-Vitals   | [`likeness_vitals`](https://github.com/likeness-pop/likeness-vitals)    | Organizational shared utilities  | ![tag](https://img.shields.io/github/v/release/likeness-pop/likeness-vitals?include_prereleases&sort=semver) | [![PyPI version](https://badge.fury.io/py/likeness-vitals.svg)](https://badge.fury.io/py/likeness-vitals) |
 
 | Legacy R & C++    |                                                                         |                               |
 | ---               | ---                                                                     | ---                           |
