@@ -16,12 +16,6 @@
 | PMEDMrcpp-Pal     | [`pmedm`](https://github.com/likeness-pop/pmedmrcpp-pal)                | R wrapper for PMEDMrcpp       |
 | PMEDMrcpp         | [`pmedmrcpp`](https://bitbucket.org/jovtc/pmedmrcpp/src/master/)        | Original R and C++ for PMEDM  |
 
-## Background
+## Background & Bibliography
 
-## Publications, Posters, and Presentations
-
-### Publications
-
-### Posters
-
-### Presentations
+:information_source: current information :information_source: – see [`artifacts`](https://github.com/likeness-pop/artifacts#)
