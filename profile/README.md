@@ -18,4 +18,7 @@
 
 ## Background & Bibliography
 
-:information_source: current information :information_source: – see [`artifacts`](https://github.com/likeness-pop/artifacts#)
+[![Likeness](https://img.shields.io/badge/Likeness-artifacts-darkgreen.svg)](https://github.com/likeness-pop/artifacts#)
+
+
+
