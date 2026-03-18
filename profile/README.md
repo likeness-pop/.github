@@ -18,7 +18,5 @@
 
 ## Background & Bibliography
 
+[![UrbanPop](https://img.shields.io/badge/UrbanPop-RAD-lightgray.svg)](https://research.ornl.gov/urbanpop/)
 [![Likeness](https://img.shields.io/badge/Likeness-artifacts-darkgreen.svg)](https://github.com/likeness-pop/artifacts#)
-
-
-
