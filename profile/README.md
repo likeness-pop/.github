@@ -16,7 +16,7 @@
 | PMEDMrcpp-Pal     | [`pmedm`](https://github.com/likeness-pop/pmedmrcpp-pal)                | R wrapper for PMEDMrcpp       |
 | PMEDMrcpp         | [`pmedmrcpp`](https://bitbucket.org/jovtc/pmedmrcpp/src/master/)        | Original R and C++ for PMEDM  |
 
-## Background & Bibliography
+## Data, Background, & Bibliography
 
 [![UrbanPop](https://img.shields.io/badge/UrbanPop-RAD-lightgray.svg)](https://research.ornl.gov/urbanpop/)
 [![Likeness](https://img.shields.io/badge/Likeness-artifacts-darkgreen.svg)](https://github.com/likeness-pop/artifacts#)
