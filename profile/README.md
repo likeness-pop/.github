@@ -20,3 +20,8 @@
 
 [![UrbanPop](https://img.shields.io/badge/UrbanPop-RAD-lightgray.svg)](https://research.ornl.gov/urbanpop/)
 [![Likeness](https://img.shields.io/badge/Likeness-artifacts-darkgreen.svg)](https://github.com/likeness-pop/artifacts#)
+
+## Associated Projects
+
+* The Python Spatial Analysis Library (PySAL) [![PySALORG](https://img.shields.io/badge/PySAL-.org-teal.svg)](https://pysal.org) [![PySALGH](https://img.shields.io/badge/PySAL-GitHub-sienna.svg)](https://github.com/pysal)
+* Open Tools for Urban, Regional, and Neighborhood Science (OTURNS) [![OTURNSLGH](https://img.shields.io/badge/OTURNS-GitHub-tomato.svg)](https://github.com/oturns)
